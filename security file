@@ -1,0 +1,4 @@
+printf("Enter a message to encrypt: ");
+    gets(message);
+    printf("Enter key: ");
+    scanf("%d", &key);
